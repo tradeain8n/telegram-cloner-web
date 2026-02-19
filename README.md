@@ -1,2 +1,3 @@
-# telegram-cloner-web
-telegram-cloner-web
+# Telegram Cloner App
+
+## Установка
